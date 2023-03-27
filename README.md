@@ -1,4 +1,7 @@
 # Complex-Numbers-Class
+
+This program is split into two files, one header file which contains the definition of the Complex Numbers class and the methods; and a .cpp file which contains the realization of the methods of the class and the overloaded functions.
+
 C++ program where I use Classes and overloaded operators to work with Complex Numbers
 
 
