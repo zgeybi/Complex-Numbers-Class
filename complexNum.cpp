@@ -173,7 +173,9 @@ int main()
 
     Complex c1;
     Complex c2;
-
+    
+    cout << "Enter two complex numbers in the form of x+iy: " << '\n';
+    
     cin >> c1;
     cin >> c2;
 
@@ -199,7 +201,7 @@ int main()
     cout << c6;
 
     // Compound assignment operatrors
-
+    
     cout << "Now enter two other numbers for compound assignment operators: " << endl;
     Complex cc;
     Complex cc2;
